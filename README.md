@@ -1,7 +1,7 @@
 MouseMorph
 ==========
 
-_We're not quite done here, but please get in touch if you are interested: nicholas.powell.11@ucl.ac.uk._
+_Forked and modified from nmpowell/mousemorph. (nicholas.powell.11@ucl.ac.uk.)_
 
 Tools for MRI mouse brain morphometry.
 
